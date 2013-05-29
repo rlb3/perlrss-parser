@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Perlrss::Parser::VERSION
   spec.authors       = ["Robert Boone"]
   spec.email         = ["robert.l.boone@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.description   = %q{Parse the new perl module rss feed}
+  spec.summary       = %q{Parse the new perl module rss feed}
+  spec.homepage      = "https://github.com/rlb3/perlrss-parser"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
